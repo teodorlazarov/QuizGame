@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Quiz>
+  <East>
+    <Question>
+      <QuestionText>What is east?</QuestionText>
+      <Answer1>East</Answer1>
+      <Answer2>West</Answer2>
+      <Answer3>South</Answer3>
+      <Answer4>North</Answer4>
+      <CorrectAnswer>A</CorrectAnswer>
+    </Question>
+
+    <Question>
+      <QuestionText>What is east2?</QuestionText>
+      <Answer1>East2</Answer1>
+      <Answer2>West2</Answer2>
+      <Answer3>South2</Answer3>
+      <Answer4>North2</Answer4>
+      <CorrectAnswer>A</CorrectAnswer>
+    </Question>
+
+  </East>
+
+  <West>
+    <Question>
+      <QuestionText>What is west?</QuestionText>
+      <Answer1>East</Answer1>
+      <Answer2>West</Answer2>
+      <Answer3>South</Answer3>
+      <Answer4>North</Answer4>
+      <CorrectAnswer>B</CorrectAnswer>
+    </Question>
+
+    <Question>
+      <QuestionText>What is west2?</QuestionText>
+      <Answer1>East2</Answer1>
+      <Answer2>West2</Answer2>
+      <Answer3>South2</Answer3>
+      <Answer4>North2</Answer4>
+      <CorrectAnswer>B</CorrectAnswer>
+    </Question>
+
+  </West>
+
+  <South>
+    <Question>
+      <QuestionText>What is south?</QuestionText>
+      <Answer1>East</Answer1>
+      <Answer2>West</Answer2>
+      <Answer3>South</Answer3>
+      <Answer4>North</Answer4>
+      <CorrectAnswer>C</CorrectAnswer>
+    </Question>
+
+    <Question>
+      <QuestionText>What is south2?</QuestionText>
+      <Answer1>East2</Answer1>
+      <Answer2>West2</Answer2>
+      <Answer3>South2</Answer3>
+      <Answer4>North2</Answer4>
+      <CorrectAnswer>C</CorrectAnswer>
+    </Question>
+
+  </South>
+
+  <North>
+    <Question>
+      <QuestionText>What is north?</QuestionText>
+      <Answer1>East</Answer1>
+      <Answer2>West</Answer2>
+      <Answer3>South</Answer3>
+      <Answer4>North</Answer4>
+      <CorrectAnswer>D</CorrectAnswer>
+    </Question>
+
+    <Question>
+      <QuestionText>What is north2?</QuestionText>
+      <Answer1>East2</Answer1>
+      <Answer2>West2</Answer2>
+      <Answer3>South2</Answer3>
+      <Answer4>North2</Answer4>
+      <CorrectAnswer>D</CorrectAnswer>
+    </Question>
+
+  </North>
+
+</Quiz>
